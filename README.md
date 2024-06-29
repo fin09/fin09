@@ -38,7 +38,7 @@
 ### 🌱Social :
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+    <img height="150px" src="https://github.com/fin09&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
 <br>
