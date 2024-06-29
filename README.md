@@ -20,7 +20,7 @@
 <a href="fadys8013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Sameh-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/fadu.samh?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Fady%20Sameh-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,7 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-### 🌱Social
+### 🌱Social :
 
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
