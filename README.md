@@ -13,6 +13,12 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
+<br>
+<br>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+<br>
+<br>
 
 ### Connect with Me :
 
