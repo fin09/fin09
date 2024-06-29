@@ -15,7 +15,6 @@
 
 <br>
 <br>
-&nbsp;<div align="center">
   [![Spotify](https://open.spotify.com/user/31zvsjbwd6j5xclthfifslizxawm?si=425ba96312b5439a?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 <br>
 <br>
