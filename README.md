@@ -51,7 +51,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 <p float="left">
-  <img src="https://wakatime.com/share/@nrmn33/3aa71efe-2256-4469-80dc-1967e2b1afff.svg" width=600px/>
   <img src="https://wakatime.com/share/@nrmn33/a1c30c9d-aeab-4dc3-b2ef-36dd5ec30f27.svg" width=600px/>
 </p>
 
