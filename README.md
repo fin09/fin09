@@ -48,3 +48,12 @@
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
+
+-------------------------------------------------------------------------------------------------------------------------
+<p float="left">
+  <img src="https://wakatime.com/share/@nrmn33/3aa71efe-2256-4469-80dc-1967e2b1afff.svg" width=600px/>
+  <img src="https://wakatime.com/share/@nrmn33/a1c30c9d-aeab-4dc3-b2ef-36dd5ec30f27.svg" width=600px/>
+</p>
+
+<img src="https://github.com/NermeenKamal/NermeenKamal/blob/main/dist/github-snake-dark.svg" width=1260px>
+
