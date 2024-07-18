@@ -8,16 +8,16 @@
 </p> 
 
 👋 Hello: Passionate Data Scientist and Machine Learning enthusiast with a focus on Data Analysis and Visual Question Answering (VQA).
-❤️🔥My Expertise:
-📊 Data Science: Extracting insights and driving decision-making.
-🤖 Machine Learning: Building and deploying models for various applications.
-📈 Data Analysis: Identifying trends, patterns, and actionable insights.
-🖼️ Visual Question Answering (VQA): Developing systems to answer questions based on visual content.
-Projects and Contributions ?🎆🎆:
+-❤️🔥My Expertise:
+-📊 Data Science: Extracting insights and driving decision-making.
+-🤖 Machine Learning: Building and deploying models for various applications.
+-📈 Data Analysis: Identifying trends, patterns, and actionable insights.
+=🖼️ Visual Question Answering (VQA): Developing systems to answer questions based on visual content.
+-Projects and Contributions ?🎆🎆:
 
-🌟Actively involved in several projects in data science and machine learning.
-🌟🌟Open to new challenges and collaboration opportunities.
-🌟🌟🌟Feel free to explore my repositories and connect with me!
+-🌟Actively involved in several projects in data science and machine learning.
+-🌟🌟Open to new challenges and collaboration opportunities.
+=🌟🌟🌟Feel free to explore my repositories and connect with me!
 
 
 ### Connect with Me :
