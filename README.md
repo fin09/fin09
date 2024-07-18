@@ -7,16 +7,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ai%20Engineer%20!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-Hello! I'm a passionate Data Scientist and Machine Learning enthusiast with a strong focus on Data Analysis and Visual Question Answering (VQA). I enjoy leveraging data to uncover insights, build predictive models, and develop intelligent systems that can interpret and understand visual information.
-My Expertise
-Data Science: Harnessing data to extract meaningful insights and drive decision-making.
-Machine Learning: Building and deploying machine learning models for various applications.
-Data Analysis: Analyzing complex datasets to identify trends, patterns, and actionable insights.
-Visual Question Answering (VQA): Developing systems that can answer questions based on visual content, enhancing the interaction between humans and machines.
-Projects and Contributions
-I am actively involved in several projects where I apply my skills in data science and machine learning. I am always looking for new challenges and opportunities to collaborate on innovative projects.
+👋 Hello: Passionate Data Scientist and Machine Learning enthusiast with a focus on Data Analysis and Visual Question Answering (VQA).
+❤️🔥My Expertise:
+📊 Data Science: Extracting insights and driving decision-making.
+🤖 Machine Learning: Building and deploying models for various applications.
+📈 Data Analysis: Identifying trends, patterns, and actionable insights.
+🖼️ Visual Question Answering (VQA): Developing systems to answer questions based on visual content.
+Projects and Contributions ?🎆🎆:
 
-Feel free to explore my repositories and connect with me!
+🌟Actively involved in several projects in data science and machine learning.
+🌟🌟Open to new challenges and collaboration opportunities.
+🌟🌟🌟Feel free to explore my repositories and connect with me!
 
 
 ### Connect with Me :
