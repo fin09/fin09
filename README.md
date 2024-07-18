@@ -7,12 +7,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ai%20Engineer%20!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+Hello! I'm a passionate Data Scientist and Machine Learning enthusiast with a strong focus on Data Analysis and Visual Question Answering (VQA). I enjoy leveraging data to uncover insights, build predictive models, and develop intelligent systems that can interpret and understand visual information.
+My Expertise
+Data Science: Harnessing data to extract meaningful insights and drive decision-making.
+Machine Learning: Building and deploying machine learning models for various applications.
+Data Analysis: Analyzing complex datasets to identify trends, patterns, and actionable insights.
+Visual Question Answering (VQA): Developing systems that can answer questions based on visual content, enhancing the interaction between humans and machines.
+Projects and Contributions
+I am actively involved in several projects where I apply my skills in data science and machine learning. I am always looking for new challenges and opportunities to collaborate on innovative projects.
 
+Feel free to explore my repositories and connect with me!
 
 
 ### Connect with Me :
