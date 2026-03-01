@@ -81,7 +81,7 @@ I'm a passionate **Flutter Developer** and **AI Engineer** with a strong focus o
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousefdergham&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fadysameh&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=6"/>
 </div>
 
 ---
