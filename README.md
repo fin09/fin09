@@ -123,8 +123,7 @@ I'm a passionate **Flutter Developer** and **AI Engineer** with a strong focus o
   <img src="https://github.com/NermeenKamal/NermeenKamal/blob/main/dist/github-snake-dark.svg" width="100%"/>
 </div>
 ## 📊 Commit Stats
-![Commits](https://github-readme-stats.vercel.app/api?username=fin09&count_private=true&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fin09&show_icons=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=fin09&color=blue)
 
 <div align="center">
