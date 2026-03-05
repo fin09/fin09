@@ -124,6 +124,7 @@ I'm a passionate **Flutter Developer** and **AI Engineer** with a strong focus o
 </div>
 ## 📊 Commit Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fin09&show_icons=true&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fin09&color=blue)
 
 <div align="center">
